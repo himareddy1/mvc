@@ -1,0 +1,5 @@
+Dll compiled code
+
+exe file -dll refrenece
+
+code(vb or c#)(build)->(.net framework) ->exe or dll->JIT compiler (generates)->OBJ code-> OS, os will execute code
